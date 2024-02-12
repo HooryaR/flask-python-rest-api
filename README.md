@@ -36,9 +36,7 @@ I'm proud to share my certificate of completion for the "REST APIs with Flask an
 
 ![UC-b972b1a3-d127-4299-a800-3df0b32400af](https://github.com/HooryaR/rest-apis-flask-python/assets/101716151/b13c5c52-b2b2-43f7-8969-4fa271d74e14)
 
-If you're interested in mastering REST API development, consider enrolling in the course on Udemy:
-
-🔗 [Udemy Course Link](https://www.udemy.com/course/rest-api-flask-and-python/)
+If you're interested in mastering REST API development, consider enrolling in the course on Udemy: 🔗 [Udemy Course Link](https://www.udemy.com/course/rest-api-flask-and-python/)
 
 
 
