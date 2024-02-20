@@ -1,5 +1,4 @@
-# REST APIs with Flask and Python - Student Showcase
-
+# REST APIs with Flask and Python 
 Welcome to my personal repository showcasing the skills I gained through the "REST APIs with Flask and Python" course by Jose Salvatierra, Founder of Teclado and a Software Engineer on Udemy. As a fellow learner, I'm excited to share my journey and the projects I've developed during this comprehensive course.
 
 ## 📚 What I've Learned:
